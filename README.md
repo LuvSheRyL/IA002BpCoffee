@@ -31,7 +31,7 @@
 
 - [资料收集](https://www.notion.so/bpcoffee/b2af9d95d6084563b6220b4ccb99ec59)
 - [版本更新](https://github.com/lvxuan149/IA002BpCoffee)
-    - [181109MollyDemo1](https://www.notion.so/bpcoffee/BP-1-Molly-65d788602f8142f39222a3f5217b3057)
+    - [181110MollyDemo1](https://github.com/mollywoo/IA002BpCoffee/blob/master/mollydemo.md)
 
 ## Changelog
 - 181107 Leon轩 创建 
