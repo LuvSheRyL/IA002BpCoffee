@@ -31,6 +31,12 @@
 
 - [资料收集](https://www.notion.so/bpcoffee/b2af9d95d6084563b6220b4ccb99ec59)
 - [版本更新](https://github.com/lvxuan149/IA002BpCoffee)
+
     - [181110MollyDemo1](https://github.com/mollywoo/IA002BpCoffee/blob/master/mollydemo.md)
-    - [181112LeonDemo1](https://github.com/lvxuan149/IA002BpCoffee/blob/master/BpContents/181112LeonDemo1.md)
+
+    - 181112Leon
+
+       -  [181112Demo1](https://github.com/lvxuan149/IA002BpCoffee/blob/master/BpContents/181112LeonDemo1.md)
+
+       -  [ 181112Story1](https://github.com/lvxuan149/IA002BpCoffee/blob/master/BpContents/181112BpCoffeeStory.md)
 
