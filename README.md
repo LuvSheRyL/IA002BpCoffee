@@ -34,6 +34,3 @@
     - [181110MollyDemo1](https://github.com/mollywoo/IA002BpCoffee/blob/master/mollydemo.md)
     - [181112LeonDemo1](https://github.com/lvxuan149/IA002BpCoffee/blob/master/BpContents/181112LeonDemo1.md)
 
-## Changelog
-- 181107 Leon轩 创建 
-- 181109 Leon轩 修改
