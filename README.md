@@ -16,8 +16,6 @@
 
 这个小蓝杯是如何在巨头“星巴克”的眼皮底下，一年时间迅速走红，成为中国2018年万马齐喑，市场萎靡的创业大军中一匹现象级的黑马，我们能从这个年轻的新品牌当中学到什么？它和星巴克的差异化在哪？它未来能否撼动老大哥星巴克？
 
-​              ![](https://ws4.sinaimg.cn/large/006tNbRwly1fwn50kh1log30ka0bfqv5.gif)
-
 ### 项目成员
 - 队员-mollywoo-北京大区-https://github.com/mollywoo/IA002
 - 队员-Spehhhhh-长三角大区-https://github.com/Spehhhhh/IA002
