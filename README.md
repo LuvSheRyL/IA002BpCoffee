@@ -2,7 +2,7 @@
 
 ## 项目相关
 
-![](http://pad4iq2ls.bkt.clouddn.com/20181114154212541923058.png)
+![](http://pad4iq2ls.bkt.clouddn.com/20181117154243360685481.jpg)
 
 ### 项目简介
 
