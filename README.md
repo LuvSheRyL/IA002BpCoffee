@@ -33,8 +33,7 @@
 
 - 项目展示
 
-    - [研究报告]()
+    - [研究报告](https://github.com/lvxuan149/IA002BpCoffee/blob/master/BpContents/181113MollyFinaldemo.md)
     - [Keynote展示]()
-
-    - [Keynote文稿]()
+    - [Keynote演讲稿](https://github.com/lvxuan149/IA002BpCoffee/blob/master/BpContents/181118AlexFinalStory.md)
 
