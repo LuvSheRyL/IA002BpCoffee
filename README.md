@@ -2,9 +2,9 @@
 
 ## 项目相关
 
-![](http://pad4iq2ls.bkt.clouddn.com/20181117154243360685481.jpg)
+![](https://camo.githubusercontent.com/01d8b0d71adba78875d578856edb5ed609b71b3c/68747470733a2f2f692e6c6f6c692e6e65742f323031382f31312f31372f356265666331383238346463612e6a7067)
 
-### 项目简介
+## 项目简介
 
 **关键词：**
 
@@ -16,7 +16,7 @@
 
 这个小蓝杯是如何在巨头“星巴克”的眼皮底下，一年时间迅速走红，成为中国2018年万马齐喑，市场萎靡的创业大军中一匹现象级的黑马，我们能从这个年轻的新品牌当中学到什么？它和星巴克的差异化在哪？它未来能否撼动老大哥星巴克？
 
-### 项目成员
+## 项目成员
 
 - 队长 - Alex - 长三角大区 - https://github.com/Spehhhhh/IA002
     - 小蓝杯项目队长
@@ -30,7 +30,7 @@
 - 观察员 - Freshniu - 北京大区 - https://github.com/Freshniu/IA002
 - 观察员 - jingzhou9908 - 长三角大区 - https://github.com/jingzhou9908/IA002
 
-### 项目进度
+## 项目进度公开
 
 - [Notion 协作空间](https://www.notion.so/bpcoffee/BpCoffee-Team-Home-3a9b0724ec75462688c1e7e66045f644)
 
